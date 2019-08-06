@@ -1,13 +1,13 @@
-Explanation:
+# Explanation:
 
-What I used?
+#### What I used?
 
 - create-react-app
 - styled-components
 - material-ui
 - react-router-dom
 
-First I'd like to say, I used this project as an opportunity to try new things. Most of the ideas I explained below already says I don't follow many ideas I put inside this project but it's nice to see what I will gonna learn in the end.
+#### First I'd like to say, I used this project as an opportunity to try new things. Most of the ideas I explained below already says I don't follow many ideas I put inside this project but it's nice to see what I will gonna learn in the end.
 
 I really liked this example of using React context as authentication provider. I implemented the solution and make it clean for this project.
 
@@ -21,7 +21,7 @@ I didn't put Redux or any other state management tool for Data layer. I just wan
 
 For me, the main deal about this challenge is solving two different data points in your data layer. I didn't use state management solution but if I used something like Redux I could make an util to put memoize stuff inside it and don't make the same arragegation many times.
 
-IDEAS:
+## IDEAS
 
 handle page reloads: I think the main idea would be putting suspense and lazy functionalities from React and there is a chance to put transitions with react router dom. Every page could expose their own data fetch request in a separate file like "bookFragment" then we can easily solve the page with their fragment promise. There's no input right now but maybe in the future it would be nice to keep the data of inputs from the users on localstorage or cookies before sending API to don't lose them.
 

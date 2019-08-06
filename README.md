@@ -1,6 +1,6 @@
 # Curator
 
-Book recommendation project. You can find the details on EXPLANATION.md
+Book recommendation project. You can find the details on [EXPLANATION.md](https://github.com/keremciu/book-curator/blob/master/EXPLANATION.md)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
