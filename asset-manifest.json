@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/book-curator/static/js/main.3bd19c5a.chunk.js",
-    "main.js.map": "/book-curator/static/js/main.3bd19c5a.chunk.js.map",
+    "main.js": "/book-curator/static/js/main.730720e9.chunk.js",
+    "main.js.map": "/book-curator/static/js/main.730720e9.chunk.js.map",
     "runtime~main.js": "/book-curator/static/js/runtime~main.6b396dd5.js",
     "runtime~main.js.map": "/book-curator/static/js/runtime~main.6b396dd5.js.map",
     "static/js/2.e327e24f.chunk.js": "/book-curator/static/js/2.e327e24f.chunk.js",
     "static/js/2.e327e24f.chunk.js.map": "/book-curator/static/js/2.e327e24f.chunk.js.map",
     "index.html": "/book-curator/index.html",
-    "precache-manifest.d7e94cee36729fb859e38bb37e3b4a8d.js": "/book-curator/precache-manifest.d7e94cee36729fb859e38bb37e3b4a8d.js",
+    "precache-manifest.5c39fa631109c4bd1c4f94cb7260c042.js": "/book-curator/precache-manifest.5c39fa631109c4bd1c4f94cb7260c042.js",
     "service-worker.js": "/book-curator/service-worker.js"
   }
 }
