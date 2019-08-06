@@ -9,7 +9,7 @@ import Frame from "components/Frame";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <AuthProvider>
         <ThemeProvider theme={theme}>
           <Frame>
